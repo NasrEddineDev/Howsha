@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159261946287",
+    "project_id": "howsha-2022",
+    "storage_bucket": "howsha-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159261946287:android:ff501272d9d44b217c7f5a",
+        "android_client_info": {
+          "package_name": "org.mesbah.howsha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159261946287-m3d7op0252ocbc9m69a023p66jjqu430.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxG3H9B7QEUS4Hf0aC55AiiMFf1teU8no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159261946287-m3d7op0252ocbc9m69a023p66jjqu430.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
